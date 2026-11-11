@@ -1,0 +1,4 @@
+*.stl -text
+*.png -text
+*.md text eol=lf
+*.json text eol=lf

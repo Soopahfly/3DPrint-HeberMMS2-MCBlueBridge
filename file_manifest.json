@@ -1,0 +1,77 @@
+[
+  {
+    "public_file": "Print_files/01_Low_profile_LED_and_cable_guides/MMS2_left_flap_low_profile_full.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/left_flap_MC_Blue_Bridge_v8.stl",
+    "sha256": "71b2f3c2ef6820bcf70589749538f1ad33bf7eafdca1821def62ca073ac7c1bd"
+  },
+  {
+    "public_file": "Print_files/01_Low_profile_LED_and_cable_guides/MMS2_right_flap_low_profile_full.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/right_flap_MC_Blue_Bridge_v8.stl",
+    "sha256": "bfaaf645e6432e200a7a5aae530d679c25dd28627cb05f7cff1817f9bf2667d0"
+  },
+  {
+    "public_file": "Print_files/01_Low_profile_LED_and_cable_guides/button_short.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/pairing_button_v8_original_length.stl",
+    "sha256": "d0524b9577358e7cdb9332295edcd29d5b8a36fe3ca2f90ada27bcfd74eae255"
+  },
+  {
+    "public_file": "Print_files/02_Raised_LED_and_cable_guides/MMS2_left_flap_raised_full.stl",
+    "source_file": "output/MC_Blue_Bridge_v7/left_flap_MC_Blue_Bridge_v7.stl",
+    "sha256": "a9c7648992fbd572320532076f66ccd55e413736f6397a655da7ec1538f153cd"
+  },
+  {
+    "public_file": "Print_files/02_Raised_LED_and_cable_guides/MMS2_right_flap_raised_full.stl",
+    "source_file": "output/MC_Blue_Bridge_v7/right_flap_MC_Blue_Bridge_v7.stl",
+    "sha256": "f0ddc865fa7e5fcd1aaa0a869272c7c0f8b553acff7ce58f301837994333f2fc"
+  },
+  {
+    "public_file": "Print_files/02_Raised_LED_and_cable_guides/button_long.stl",
+    "source_file": "output/MC_Blue_Bridge_v7/pairing_button_v6_long_tip.stl",
+    "sha256": "81f719800811c1bfa1560b5616c964a48e327723b2c1df8027e4fee787e427b5"
+  },
+  {
+    "public_file": "Print_files/03_Raised_basic_optional/MMS2_left_flap_raised_basic.stl",
+    "source_file": "output/MC_Blue_Bridge_v6/left_flap_MC_Blue_Bridge_v6.stl",
+    "sha256": "52770a88c0d4af749c1745f0460793ff0aae0cbd86943f2f9981d93d347a6dad"
+  },
+  {
+    "public_file": "Print_files/03_Raised_basic_optional/MMS2_right_flap_raised_basic.stl",
+    "source_file": "output/MC_Blue_Bridge_v6/right_flap_MC_Blue_Bridge_v6.stl",
+    "sha256": "00b2e2b4f8b9877ae4d149a8d1017abbf49fb5eb15cc29afa653fe81c7bd9261"
+  },
+  {
+    "public_file": "Print_files/03_Raised_basic_optional/button_long.stl",
+    "source_file": "output/MC_Blue_Bridge_v6/pairing_button_v6_long_tip.stl",
+    "sha256": "81f719800811c1bfa1560b5616c964a48e327723b2c1df8027e4fee787e427b5"
+  },
+  {
+    "public_file": "Fit_checks/peg_fit_2p10mm.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/fit_tests/peg_fit_2p10mm.stl",
+    "sha256": "410507019ffa1f818dc4f9753fbb3f9c421db6c002db2b483a13ab8bfea0a74d"
+  },
+  {
+    "public_file": "Fit_checks/button_aperture_fit_test_5p00mm.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/fit_tests/button_clearance_fit_test_5p00mm.stl",
+    "sha256": "ed51f7f10a431e00e0bd42797dbc352638ee8aefb779a0a2871a5dfb5aa8078c"
+  },
+  {
+    "public_file": "Fit_checks/light_pipe_fit_test_1p75mm.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/fit_tests/light_pipe_fit_test_1p75mm.stl",
+    "sha256": "d0f92d41dd93cc43642eaaed25a85f25cb03bef1ce9e6443e8a8e67824cb61a2"
+  },
+  {
+    "public_file": "Fit_checks/USB_cable_tie_fit_test.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/fit_tests/usb_strain_relief_fit_test.stl",
+    "sha256": "c2b00dcbe807294c3c0e75e63f4119f5d2eb2139ff56b61556928aba776449b2"
+  },
+  {
+    "public_file": "Fit_checks/mount_and_button_fit_test_low_profile.stl",
+    "source_file": "output/MC_Blue_Bridge_v8/fit_tests/mount_and_button_fit_test.stl",
+    "sha256": "a21cc26824defa6a4840aaad57ef51387448974d883017146eda2ef21c75c891"
+  },
+  {
+    "public_file": "Fit_checks/mount_and_button_fit_test_raised.stl",
+    "source_file": "output/MC_Blue_Bridge_v7/fit_tests/mount_and_button_fit_test.stl",
+    "sha256": "581515c5965cc928c642b88fc3c9371773db742e85d182ef6db2396b80a45878"
+  }
+]
